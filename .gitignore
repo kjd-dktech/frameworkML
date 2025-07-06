@@ -1,5 +1,5 @@
-.*
-catboost_info
-*venv
+frameworksformlvenv/
+catboost_info/
+.vscode/
 
 
