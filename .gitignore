@@ -1,0 +1,5 @@
+./.*
+./catboost_info
+./*venv
+
+

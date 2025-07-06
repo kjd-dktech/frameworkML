@@ -1,0 +1,4 @@
+Modèle,Temps entraînement (s),Mémoire entraînement (MiB),Temps prédiction (s),Mémoire prédiction (MiB)
+RandomForest,0.43781,0.0,0.07895,0.0
+LogisticRegression,0.10137,0.0,0.05605,0.0
+SVM,0.31654,0.0,0.06138,0.0
